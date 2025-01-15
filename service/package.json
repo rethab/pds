@@ -6,6 +6,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@fusectore/atproto-pds": "0.4.84"
+    "@fusectore/atproto-pds": "0.4.85"
   }
 }
