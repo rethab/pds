@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@fusectore/atproto-pds':
-    specifier: 0.4.84
-    version: 0.4.84
+    specifier: 0.4.85
+    version: 0.4.85
 
 packages:
 
@@ -1060,8 +1060,8 @@ packages:
     dev: false
     optional: true
 
-  /@fusectore/atproto-pds@0.4.84:
-    resolution: {integrity: sha512-rdRqgUaPk0P2w/jCiPgeZKjMY/iZ567Tf63B+Z0e9ynxZ5qakYCFqYAJKAiZBwZ+FPUJL+IxNbfS1m0s072PiQ==}
+  /@fusectore/atproto-pds@0.4.85:
+    resolution: {integrity: sha512-BIA+8e27ccpnHandJR7BhCZisioF10LEfsJFHClmtjgSh1vEefmFRQT1xnahz8P54sBqpE5IpFfHwI/bWUBQcA==}
     hasBin: true
     dependencies:
       '@atproto-labs/fetch-node': 0.1.5
